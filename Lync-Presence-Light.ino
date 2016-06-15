@@ -44,7 +44,7 @@ void loop() {
       yellow = constrain(yellow, 0, 255);
       red = constrain(red, 0, 255);
 
-      // fade the red, green, and blue legs of the LED:
+      // fade the green, yellow, and red LEDs:
       analogWrite(greenPin, green);
       analogWrite(yellowPin, yellow);
       analogWrite(redPin, red);
