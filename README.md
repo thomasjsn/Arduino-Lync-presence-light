@@ -1,10 +1,10 @@
-## Source code for project: [Lync presence (busy) light](https://www.uctrl.net/p/172)
+## Source code for project: [Lync presence (busy) light](https://uctrl.io/p/172)
 
 Let your coworkers know your availability with this simple Arduino Uno project. Three LEDs that reflect your Lync status.
 
-![Lync presence (busy) light](https://cdn.uctrl.net/github/modules/172.jpeg)
+![Lync presence (busy) light](https://uctrl.io/images/medium/683)
 
-Lync bridge: https://github.com/uCtrlDev/Lync-presence-bridge
+Lync bridge: https://github.com/uCtrlHQ/Lync-presence-bridge
 
 ### Author
-[Thomas Jensen](https://www.uctrl.net/@hebron)
+[Thomas Jensen](https://uctrl.io/@hebron)
