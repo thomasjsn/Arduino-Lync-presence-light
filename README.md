@@ -4,7 +4,7 @@ Let your coworkers know your availability with this simple Arduino Uno project. 
 
 ![Lync presence (busy) light](https://static.uctrl.net/imgs/2qewqj.jpeg)
 
-Lync bridge: https://github.com/uCtrlHQ/Lync-presence-bridge
+Lync bridge: https://github.com/thomasjsn/Lync-presence-bridge
 
 ### Author
 [Thomas Jensen](https://uctrl.io/@hebron)
