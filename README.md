@@ -7,4 +7,4 @@ Let your coworkers know your availability with this simple Arduino Uno project. 
 Lync bridge: https://github.com/thomasjsn/Lync-presence-bridge
 
 ### Author
-[Thomas Jensen](https://www.stdout.no)
+[Thomas Jensen](https://thomas.stdout.no)
